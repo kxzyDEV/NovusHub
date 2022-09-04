@@ -1,4 +1,4 @@
-loadstring(game:HttpGet(('https://github.com/kxzyDEV/NovusHub/blob/main/Traitor%20Town.lua'),true))()   
+loadstring(game:HttpGet('https://github.com/kxzyDEV/NovusHub/blob/main/Traitor%20Town.lua'))()   
 if game.PlaceId == 286090429 then -- Arsenal
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/kxzyDEV/NovusHub/main/Arsenal.lua'),true))()   
 end
